@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  nlweb:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2020-02-14T15:14:24.0453902+01:00"
+    description: A Helm chart for Neoload Web installation
+    digest: 4e0dd9e7a35d4d5608658f3342a82b3dafd5183aad2f235dc31d8e9d42c1fea7
+    home: https://www.neotys.com/neoload
+    icon: https://www.neotys.com/favicon-32x32.png
+    keywords:
+    - Neotys
+    - NeoLoad
+    - nlweb
+    name: nlweb
+    sources:
+    - https://TO_FIX.org
+    type: application
+    urls:
+    - https://frod-neotys.github.io/helm-repo/nlweb-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-02-14T15:14:24.0413886+01:00"
